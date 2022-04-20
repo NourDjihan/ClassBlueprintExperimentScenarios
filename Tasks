@@ -1,0 +1,64 @@
+###Tasks questions:
+
+##Method types:
+- How many dead methods ?
+- How many false positive dead methods ?
+- How many "reel" dead methods ?
+- Du code de la superclass qui est utilisé ?
+- Les méthodes les plus appelées ?
+- Les méthodes monomorphic ?
+- Les méthodes testées ?
+- Délégation entre méthodes d’instance et méthode de class .
+- Les méthodes qui ont plus de branches 
+- Les méthodes longues.
+- Une fois sans l’outil et une fois avec l’outil.
+- Pas de plugins et pas le droit d’utiliser la réflexivité. 
+
+###Legend:
+- Delegation 
+- Extension 
+- Overriding 
+- Overriden 
+- Abstract 
+- Abstract and used 
+- Constantes
+##Comprehension:
+Sans donner le nom de la class: un systeme de banque
+
+Abstract and used in subclass:
+method1, method4
+
+Extending: 
+method2
+
+Overriden:
+method3
+
+Delegation:
+method7, method12
+
+Real dead methods:
+method5 method 11 method 19
+
+Methodes appelées souvent: 
+method6, method10, method 15
+
+Method testée:
+method2, method3, method4, method5, method11, method12
+
+Constantes:
+method12, method7
+
+Delegation:
+method13, method18
+
+Abstract:
+method14
+
+Des méthodes d'initialize:
+
+Bordure:
+- Monomorphic:
+
+Quelques methodes qui sont extends/overriden peuvent paraitre megamorphic
+
