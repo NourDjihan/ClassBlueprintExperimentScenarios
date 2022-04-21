@@ -1,5 +1,5 @@
 Class {
-	#name : #ClassBlueprintScenarios,
+	#name : #BaselineOfClassBlueprintScenarios,
 	#superclass : #BaselineOf,
 	#category : #BaselineOfClassBlueprintScenarios
 }
