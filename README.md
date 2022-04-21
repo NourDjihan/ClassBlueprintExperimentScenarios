@@ -3,6 +3,6 @@ These are the scenarios defining the tasks of the experiment related to ClassBlu
 ``` Smalltalk
 Metacello new
   baseline: 'ClassBlueprintExperimentScenarios';
-  repository: 'github://NourDjihan/ClassBlueprintExperimentScenarios';
+  repository: 'github://NourDjihan/ClassBlueprintExperimentScenarios/src';
   load.
  ```
