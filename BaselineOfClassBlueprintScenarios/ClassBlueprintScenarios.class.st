@@ -5,7 +5,7 @@ Class {
 }
 
 { #category : #baselines }
-ClassBlueprintScenarios >> baseline: spec [ 
+BaselineOfClassBlueprintScenarios >> baseline: spec [ 
 	
 	<baseline>
 	spec for: #common do: [ 
