@@ -15,3 +15,6 @@
  ### isInternalImplementation
   - How many methods are considered private methods ? In other words, what are the methods that could be modified without breaking other code?
 
+## isContant
+- What are the methods that send a value ?
+-
