@@ -45,6 +45,6 @@
 
 # About Dead code:
 - Est ce qu'il y'a du code mort qu'on pourrait supprimer sans que ca affecte le fonctionnement du projet ?
--
+
 # About dependencies:
 - Quelle est la dépendance de cette classe a d'autres classes ? s'il y'en a, justifiez.
