@@ -1,17 +1,17 @@
-### From the legend
-## isAbstract/ isAbstract and Reimplemented in Subclass:
+## From the legend
+### isAbstract/ isAbstract and Reimplemented in Subclass:
   - How many abstract methods in the class ?
   - What do you think the purpose of the class, if any a design pattern ?
  
- ## isOverriding, isExtending:
+ ### isOverriding, isExtending:
   - What is the dependency of this class to another class (its superclass) ?
 
-## isOverriden:
+### isOverriden:
   - What is the dependency of other classes to this class ?
 
-## isDelegating:
+### isDelegating:
   - Describe the delegation of this class 
  
- ## isInternalImplementation
+ ### isInternalImplementation
   - How many methods are considered private methods ? In other words, what are the methods that could be modified without breaking other code?
 
