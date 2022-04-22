@@ -1,7 +1,8 @@
 # From the legend
 ### isAbstract/ isAbstract and Reimplemented in Subclass:
   - Est ce qu'il y'a du code utilisé dans les sous-classes ?
-  <!--> - What do you think the purpose of the class, if any a design pattern ? -->
+  <!-- - What do you think the purpose of the class, if any a design pattern ? -->
+  <!-- a normal html comment -->
  
  ### isOverriding, isExtending:
   - What is the dependency of this class to another class (its superclass) ?
