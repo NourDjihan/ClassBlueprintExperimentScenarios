@@ -5,7 +5,7 @@
   
   <!-- Answer:
     - Des méthodes abstraites: method6, method8
-    - Attributes: Couleur verte + la largeur de l'attribute -->
+    - Attributes: Couleur verte + la largeur de l'attribute: att2 -->
  
  ### isOverriding, isExtending:
   - What is the dependency of this class to another class (its superclass) ?
