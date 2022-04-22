@@ -18,7 +18,7 @@
 ## isContant
 - What are the methods that send a value ?
 
-### About methods:
+# About methods:
   - Quelles sont les méthodes les plus appelées ?
   - Quelles sont les méthodes qui appellent le plus ?
   - Quelles sont les méthodes spécifiques a cette classe ?
