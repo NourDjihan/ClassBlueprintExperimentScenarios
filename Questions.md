@@ -2,6 +2,7 @@
 ### isAbstract/ isAbstract and Reimplemented in Subclass:
   - Est ce qu'il y'a du code utilisé dans les sous-classes ?
  [comment]: # (- What do you think the purpose of the class, if any a design pattern ?)
+ [comment]: # (Still another comment)
  
  ### isOverriding, isExtending:
   - What is the dependency of this class to another class (its superclass) ?
