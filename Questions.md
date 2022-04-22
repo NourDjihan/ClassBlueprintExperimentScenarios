@@ -4,7 +4,7 @@
   <!-- - What do you think the purpose of the class, if any a design pattern ? -->
   
   Answer:
-  <-- Des méthodes abstraites: method6, method8
+  <-- Des méthodes abstraites: method6, method8 -->
   <-- Attributes: Couleur verte + la largeur de l'attribute -->
  
  ### isOverriding, isExtending:
