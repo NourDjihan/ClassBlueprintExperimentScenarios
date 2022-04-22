@@ -3,9 +3,9 @@
   - Est ce qu'il y'a du code utilisé dans les sous-classes ? Justifiez
   <!-- - What do you think the purpose of the class, if any a design pattern ? -->
   
-  Answer:
-  <-- Des méthodes abstraites: method6, method8 -->
-  <-- Attributes: Couleur verte + la largeur de l'attribute -->
+  <!-- Answer:
+    - Des méthodes abstraites: method6, method8
+    - Attributes: Couleur verte + la largeur de l'attribute -->
  
  ### isOverriding, isExtending:
   - What is the dependency of this class to another class (its superclass) ?
