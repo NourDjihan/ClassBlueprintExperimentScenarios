@@ -1,4 +1,4 @@
-##### From the legend
+# From the legend
 ### isAbstract/ isAbstract and Reimplemented in Subclass:
   - How many abstract methods in the class ?
   - What do you think the purpose of the class, if any a design pattern ?
