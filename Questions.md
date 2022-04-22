@@ -27,4 +27,24 @@
   - Quelles sont les méthodes appartenant a plusieurs branches ?
   - Quelles sont les méthodes longues ?
   - Quelles sont les méthodes complexes ?
-  
+ ## About dead methods:
+ - Combien de méthodes sont considérées mortes ?
+ - Combien de méthodes sont réellement mortes ?
+ - Combien de false positive en ce qui concerne les méthodes mortes ?
+ - Combien de dead branches ? et donc combien de classes provoquant des dead branches ?
+
+# About Attributes:
+- Quelles sont les attributs de la superclasse ?
+- Quelles sont les attributs utilisés dans les sous-classes ?
+- Quelles sont les attributs les plus importants ?
+- L'attributs le plus important pour d'autres classes ?
+- Est ce qu'il y'a une dépendance de cette classe a d'autres classes ? Justifiez.
+
+## About dead attributes:
+- Quelles sont les attributs morts ? s'il y'en a, justifiez.
+
+# About Dead code:
+- Est ce qu'il y'a du code mort qu'on pourrait supprimer sans que ca affecte le fonctionnement du projet ?
+-
+# About dependencies:
+- Quelle est la dépendance de cette classe a d'autres classes ? s'il y'en a, justifiez.
