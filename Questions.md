@@ -1,6 +1,6 @@
 # From the legend
 ### isAbstract/ isAbstract and Reimplemented in Subclass:
-  - Est ce qu'il y'a du code utilisé dans les sous-classes ? Justifiez
+  - Est ce qu'il y'a du code utilisé dans d'autres classes ? Justifiez
   <!-- - What do you think the purpose of the class, if any a design pattern ? --> 
   
   <!-- Answer:
