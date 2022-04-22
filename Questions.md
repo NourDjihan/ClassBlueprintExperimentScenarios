@@ -5,7 +5,7 @@
   
   <!-- Answer:
     - Des méthodes abstraites: method6, method8
-    - Attributes: Couleur verte + la largeur de l'attribute: att2 -->
+    - Attributes: Couleur verte indiquant que l'atribut est utilisé dans les sous-classes + la largeur de l'attribute: att2 indiquant qu'il est accédé par des classes d'autres hierarchies -->
  
  ### isOverriding, isExtending:
   - What is the dependency of this class to another class (its superclass) ?
