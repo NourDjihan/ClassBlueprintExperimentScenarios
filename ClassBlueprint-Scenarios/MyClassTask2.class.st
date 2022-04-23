@@ -4,22 +4,14 @@ Class {
 	#category : #'ClassBlueprint-Scenarios'
 }
 
-{ #category : #accessing }
-MyClassTask2 >> method1 [
+{ #category : #'as yet unclassified' }
+MyClassTask2 >> method6 [
+
+	att2.
+	att0
 ]
 
-{ #category : #accessing }
-MyClassTask2 >> method2 [ 
-	super method2
-	
-]
-
-{ #category : #accessing }
-MyClassTask2 >> method3 [
-	
-]
-
-{ #category : #accessing }
-MyClassTask2 >> method4 [ 
-	
+{ #category : #'as yet unclassified' }
+MyClassTask2 >> method8 [
+	att2
 ]
