@@ -23,7 +23,8 @@
 
 ### isDelegating:
   - Describe the delegation of this class 
- 
+  <!-- Answer:
+     To be fixed. Instance side and class side together -->
  ### isInternalImplementation
   - How many methods are considered private methods ? In other words, what are the methods that could be modified without breaking other code?
 
