@@ -3,9 +3,9 @@
   - Est ce qu'il y'a du code utilisé dans d'autres classes ? Justifiez
   <!-- - What do you think the purpose of the class, if any a design pattern ? --> 
   
-  <!-- Answer:
+  <!-- Answer: MyClassTask1
     - Des méthodes abstraites: method6, method8
-    - Attributes: Couleur verte indiquant que l'atribut est utilisé dans les sous-classes + la largeur de l'attribute: att2 indiquant qu'il est accédé par des classes d'autres hierarchies -->
+    - Attributes: Couleur verte indiquant que l'atribut est utilisé dans les sous-classes (att0 de la superclass + att2) + la largeur de l'attribute: att2 indiquant qu'il est accédé par des classes d'autres hierarchies -->
  
  ### isOverriding, isExtending:
   - What is the dependency of this class to another class (its superclass) ?
