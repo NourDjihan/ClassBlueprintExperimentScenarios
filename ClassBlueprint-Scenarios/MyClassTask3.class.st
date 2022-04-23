@@ -2,9 +2,18 @@ Class {
 	#name : #MyClassTask3,
 	#superclass : #Object,
 	#instVars : [
-		'class1',
-		'class2',
-		'class0'
+		'cAtt1',
+		'cAtt2',
+		'cAtt0'
 	],
 	#category : #'ClassBlueprint-Scenarios'
 }
+
+{ #category : #accessing }
+MyClassTask3 >> method2 [
+	
+]
+
+{ #category : #accessing }
+MyClassTask3 >> method7 [
+]

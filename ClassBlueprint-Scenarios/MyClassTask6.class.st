@@ -2,12 +2,13 @@ Class {
 	#name : #MyClassTask6,
 	#superclass : #Object,
 	#instVars : [
-		'class1'
+		'cAtt1'
 	],
 	#category : #'ClassBlueprint-Scenarios'
 }
 
 { #category : #initialization }
-MyClassTask6 >> initialize [ 
-	class1 := MyClassTask1 new
+MyClassTask6 >> initialize [
+
+	cAtt1 := MyClassTask1 new
 ]

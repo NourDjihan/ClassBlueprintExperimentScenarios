@@ -7,14 +7,31 @@ Class {
 		'att3',
 		'att4',
 		'att5',
-		'class7'
+		'cAtt7'
+	],
+	#classInstVars : [
+		'att9'
 	],
 	#category : #'ClassBlueprint-Scenarios'
 }
 
+{ #category : #accessing }
+MyClassTask1 class >> att9 [ 
+	^ att9
+]
+
+{ #category : #accessing }
+MyClassTask1 class >> att9: aValue [
+	att9 := aValue
+]
+
 { #category : #'as yet unclassified' }
 MyClassTask1 class >> method10: aValue [
 	^ self new method10: aValue
+]
+
+{ #category : #'as yet unclassified' }
+MyClassTask1 class >> method20 [
 ]
 
 { #category : #accessing }
@@ -68,12 +85,14 @@ MyClassTask1 >> att5: aValue [
 ]
 
 { #category : #initialization }
-MyClassTask1 >> initialize [ 
+MyClassTask1 >> initialize [
+
 	super initialize.
-	class7 := MyClassTask7 new.
+	cAtt7 := MyClassTask7 new.
 	self method5.
 	self method9.
-	self method15
+	self method15.
+	self method13
 ]
 
 { #category : #accessing }
@@ -82,8 +101,9 @@ MyClassTask1 >> method1 [
 
 { #category : #'as yet unclassified' }
 MyClassTask1 >> method10: aValue [
+
 	self method2.
-	class7 method10: aValue
+	cAtt7 method10: aValue
 ]
 
 { #category : #'as yet unclassified' }
@@ -94,15 +114,27 @@ MyClassTask1 >> method11 [
 
 { #category : #'as yet unclassified' }
 MyClassTask1 >> method12 [
+	self method1
 ]
 
 { #category : #'as yet unclassified' }
-MyClassTask1 >> method14: aValue [ 
-	class7 method14: aValue
+MyClassTask1 >> method13 [
+]
+
+{ #category : #'as yet unclassified' }
+MyClassTask1 >> method14: aValue [
+
+	cAtt7 method14: aValue
 ]
 
 { #category : #'as yet unclassified' }
 MyClassTask1 >> method15 [
+	
+]
+
+{ #category : #'as yet unclassified' }
+MyClassTask1 >> method16 [ 
+	att3 
 	
 ]
 

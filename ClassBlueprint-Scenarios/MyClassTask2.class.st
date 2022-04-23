@@ -5,6 +5,10 @@ Class {
 }
 
 { #category : #'as yet unclassified' }
+MyClassTask2 >> method16 [
+]
+
+{ #category : #'as yet unclassified' }
 MyClassTask2 >> method6 [
 
 	att2.
