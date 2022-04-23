@@ -9,7 +9,7 @@
  
  ### isOverriding, isExtending:
   - Est ce qu'il y'a du code hérité de la superclass ?
-  -  <!-- Answer: MyClassTask1
+   <!-- Answer: MyClassTask1
     - Des méthodes: 
           * isOverriding: method9, method15, method2
           * isExtending: method4, method17
