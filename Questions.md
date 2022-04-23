@@ -13,7 +13,7 @@
     - Des méthodes: 
           * isOverriding: method9, method15, method2
           * isExtending: method4, method17
-    - Attributs: att0 accédé dans la classe-->
+    - Attributs: att0 accédé dans la classe -->
 
 ### isOverriden:
   - What is the dependency of other classes to this class ?
