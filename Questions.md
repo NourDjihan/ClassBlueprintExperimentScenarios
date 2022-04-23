@@ -32,6 +32,7 @@
 - What are the methods that send a value ?
 
 # About methods:
+  <!-- MyClassTask4
   - Quelles sont les méthodes les plus appelées ?
     <!-- Answer: method1, method4, method0. -->  
   - Quelles sont les méthodes qui appellent le plus ?
@@ -40,10 +41,13 @@
      <!-- Answer:
           Accees direct: Attribut diect: initializer, method2 
           Accees par accessor: Attribut att3: method1. -->  
-  - Quelles sont les méthodes spécifiques a cette classe ?
-  - Quelles sont les méthodes non-spécifiques a cette classe-- utilisées dans d'autres classes ?
-  - Quelles sont les méthodes les plus connues et souvent implémentées ?
+  - Quelles sont les méthodes monomorphiques ?
+      <!-- Answer: initializeAtt3, method10 -->
+  - Quelles sont les méthodes polymorphiques ?
+      <!-- Answer: Toutes les autres méthodes -->
+  <!-- Quelles sont les méthodes les plus connues et souvent implémentées ? -->
   - Quelles sont les méthodes appartenant a plusieurs branches ?
+  - <!-- Answer: -->
   - Quelles sont les méthodes longues ?
   - Quelles sont les méthodes complexes ?
  ## About dead methods:
