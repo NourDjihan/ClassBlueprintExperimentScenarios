@@ -35,9 +35,9 @@
   - Quelles sont les méthodes les plus appelées ?
     <!-- Answer: method1, method4, method0. -->  
   - Quelles sont les méthodes qui appellent le plus ?
-  <!-- Answer: initialize, method3. -->  
+    <!-- Answer: initialize, method3. -->  
   - Quelles sont les méthodes qui accedent aux attributs (accees directe), (accees par accessor)?
-   <!-- Answer:
+     <!-- Answer:
           Accees direct: Attribut diect: initializer, method2 
           Accees par accessor: Attribut att3: method1. -->  
   - Quelles sont les méthodes spécifiques a cette classe ?
