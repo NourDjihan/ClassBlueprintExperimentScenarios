@@ -16,7 +16,10 @@
     - Attributs: att0 accédé dans la classe -->
 
 ### isOverriden:
-  - What is the dependency of other classes to this class ?
+  - Quelle est la dépendance des sous-classes a cette classe ?
+  <!-- Answer:
+     - Méthodes: method16 qui est overriden dans la sous-classe. 
+     - Attributs: L'attribut att2 qui est appelé dans les sous-classes -->
 
 ### isDelegating:
   - Describe the delegation of this class 
