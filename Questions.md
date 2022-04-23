@@ -33,7 +33,11 @@
 
 # About methods:
   - Quelles sont les méthodes les plus appelées ?
+    <!-- Answer:
+          method1, method4, method0.
+      -->  
   - Quelles sont les méthodes qui appellent le plus ?
+  - Quelles sont les méthodes qui accedent aux attributs ?
   - Quelles sont les méthodes spécifiques a cette classe ?
   - Quelles sont les méthodes non-spécifiques a cette classe-- utilisées dans d'autres classes ?
   - Quelles sont les méthodes les plus connues et souvent implémentées ?
