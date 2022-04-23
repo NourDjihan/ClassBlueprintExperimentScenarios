@@ -8,14 +8,23 @@
     - Attributes: Couleur verte indiquant que l'atribut est utilisé dans les sous-classes (att0 de la superclass + att2) + la largeur de l'attribute: att2 indiquant qu'il est accédé par des classes d'autres hierarchies -->
  
  ### isOverriding, isExtending:
-  - What is the dependency of this class to another class (its superclass) ?
+  - Est ce qu'il y'a du code hérité de la superclass ?
+   <!-- Answer: MyClassTask1
+    - Des méthodes: 
+          * isOverriding: method9, method15, method2
+          * isExtending: method4, method17
+    - Attributs: att0 accédé dans la classe -->
 
 ### isOverriden:
-  - What is the dependency of other classes to this class ?
+  - Quelle est la dépendance des sous-classes a cette classe ?
+  <!-- Answer:
+     - Méthodes: method16 qui est overriden dans la sous-classe. 
+     - Attributs: L'attribut att2 qui est appelé dans les sous-classes -->
 
 ### isDelegating:
   - Describe the delegation of this class 
- 
+  <!-- Answer:
+     To be fixed. Instance side and class side together -->
  ### isInternalImplementation
   - How many methods are considered private methods ? In other words, what are the methods that could be modified without breaking other code?
 
@@ -23,12 +32,22 @@
 - What are the methods that send a value ?
 
 # About methods:
+  <!-- MyClassTask4
   - Quelles sont les méthodes les plus appelées ?
+    <!-- Answer: method1, method4, method0. -->  
   - Quelles sont les méthodes qui appellent le plus ?
-  - Quelles sont les méthodes spécifiques a cette classe ?
-  - Quelles sont les méthodes non-spécifiques a cette classe-- utilisées dans d'autres classes ?
-  - Quelles sont les méthodes les plus connues et souvent implémentées ?
+    <!-- Answer: initialize, method3. -->  
+  - Quelles sont les méthodes qui accedent aux attributs (accees directe), (accees par accessor)?
+     <!-- Answer:
+          Accees direct: Attribut diect: initializer, method2 
+          Accees par accessor: Attribut att3: method1. -->  
+  - Quelles sont les méthodes monomorphiques ?
+      <!-- Answer: initializeAtt3, method10 -->
+  - Quelles sont les méthodes polymorphiques ?
+      <!-- Answer: Toutes les autres méthodes -->
+  <!-- Quelles sont les méthodes les plus connues et souvent implémentées ? -->
   - Quelles sont les méthodes appartenant a plusieurs branches ?
+  - <!-- Answer: -->
   - Quelles sont les méthodes longues ?
   - Quelles sont les méthodes complexes ?
  ## About dead methods:
