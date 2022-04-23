@@ -34,8 +34,7 @@
 # About methods:
   - Quelles sont les méthodes les plus appelées ?
     <!-- Answer:
-          method1, method4, method0.
-      -->  
+          method1, method4, method0. -->  
   - Quelles sont les méthodes qui appellent le plus ?
   <!-- Answer:
           initialize, method3 -->  
