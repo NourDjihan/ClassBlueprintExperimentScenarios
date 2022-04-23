@@ -38,9 +38,11 @@
       -->  
   - Quelles sont les méthodes qui appellent le plus ?
   <!-- Answer:
-          initialize, method3.
-      -->  
-  - Quelles sont les méthodes qui accedent aux attributs ?
+          initialize, method3 -->  
+  - Quelles sont les méthodes qui accedent aux attributs (accees directe), (accees par accesor)?
+   <!-- Answer:
+          Accees direct: Attribut diect: initializer, method2 
+          Accees par accessor: Attribut att3: method1 -->  
   - Quelles sont les méthodes spécifiques a cette classe ?
   - Quelles sont les méthodes non-spécifiques a cette classe-- utilisées dans d'autres classes ?
   - Quelles sont les méthodes les plus connues et souvent implémentées ?
