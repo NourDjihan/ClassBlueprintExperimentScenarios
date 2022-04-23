@@ -8,7 +8,12 @@
     - Attributes: Couleur verte indiquant que l'atribut est utilisé dans les sous-classes (att0 de la superclass + att2) + la largeur de l'attribute: att2 indiquant qu'il est accédé par des classes d'autres hierarchies -->
  
  ### isOverriding, isExtending:
-  - What is the dependency of this class to another class (its superclass) ?
+  - Est ce qu'il y'a du code hérité de la superclass ?
+  -  <!-- Answer: MyClassTask1
+    - Des méthodes: 
+          * isOverriding: method9, method15, method2
+          * isExtending: method4, method17
+    - Attributs: att0 accédé dans la classe-->
 
 ### isOverriden:
   - What is the dependency of other classes to this class ?
